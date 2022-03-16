@@ -26,6 +26,7 @@ I'm a Year 2 Computer Science and Mathematics student studying at the National U
   - Principles of Mathematical Analysis (Rudin)
   - Quantum Computing and Quantum Information (Nielsen, Chuang)
   - Probability and Computing (Mitzenmacher)
+  - Competitive Programming 4 (Halim)
 
 ### Planned Reads
   - Linear Algebra (Friedberg, Insel, Spence)
