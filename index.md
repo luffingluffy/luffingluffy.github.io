@@ -8,6 +8,10 @@ I'm a Year 2 Computer Science and Mathematics student studying at the National U
 
 # Experience
 # Projects
+### modwithfriends
+### Track2Gather
+### FixMyLife
+### plaNwithUS
 # Expertise
 # Reading List
 ## Currently Reading
