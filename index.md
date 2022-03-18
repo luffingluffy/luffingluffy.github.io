@@ -29,8 +29,11 @@ I'm a Year 2 Computer Science and Mathematics student studying at the National U
   - https://github.com/bnjmnt4n/planwithus
 
 # Expertise
-#### Languages: Java, C, Python, Go, SQL, HTML, Javascript
-#### Frameworks & Tools: Git, Postgres, React Native, React, Heroku, Latex
+#### Languages: 
+Java, C, Python, Go, SQL, HTML, Javascript
+#### Frameworks & Tools:
+Git, Postgres, React Native, React, Heroku, Latex
+
 
 # Reading List
 
