@@ -11,22 +11,22 @@ I'm a Year 2 Computer Science and Mathematics student studying at the National U
 #### modwithfriends
   - Personal Project
   - Created a telegram bot that group NUS students who are taking the same modules together.
-  - https://github.com/luffingluffy/modwithfriends
+  - <https://github.com/luffingluffy/modwithfriends>
 
 #### Track2Gather
   - Software Engineering Team Project
   - Modified a desktop app that allows easier tracking of contacts.
-  - https://github.com/AY2122S1-CS2103-W14-2/tp
+  - <https://github.com/AY2122S1-CS2103-W14-2/tp>
 
 #### FixMyLife
   - Personal Project
   - Created an iOS gamified to-do list app as part of a summer project using React Native.
-  - https://github.com/luffingluffy/FixMyLife
+  - <https://github.com/luffingluffy/FixMyLife>
 
 #### plaNwithUS
   - Team Project
   - Designed the back-end operations of an online NUS study planner.
-  - https://github.com/bnjmnt4n/planwithus
+  - <https://github.com/bnjmnt4n/planwithus>
 
 # Expertise
 #### Languages: 
