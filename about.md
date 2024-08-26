@@ -1,18 +1,11 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
 
-This is the whiteglass theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hello there, I am Lutfi Randiva and I am currently a Software Engineer at Visa.
 
-You can find the source code for whiteglass at GitHub:
-[yous](https://github.com/yous) /
-[whiteglass](https://github.com/yous/whiteglass)
+I studied Computer Science and Mathematics at NUS.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+My areas of interest include algorithms, competitive programming, and cryptography.
